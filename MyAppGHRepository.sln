@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAppGHRepository", "MyAppGHRepository\MyAppGHRepository.csproj", "{3D4E84FA-5DB9-4FAA-ACCA-5CD013D280F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAppGHRepository.Tests", "MyAppGHRepository.Tests\MyAppGHRepository.Tests.csproj", "{2056909C-C1E3-488C-9F54-C7A314C2BA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4E84FA-5DB9-4FAA-ACCA-5CD013D280F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4E84FA-5DB9-4FAA-ACCA-5CD013D280F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4E84FA-5DB9-4FAA-ACCA-5CD013D280F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4E84FA-5DB9-4FAA-ACCA-5CD013D280F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2056909C-C1E3-488C-9F54-C7A314C2BA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2056909C-C1E3-488C-9F54-C7A314C2BA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2056909C-C1E3-488C-9F54-C7A314C2BA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2056909C-C1E3-488C-9F54-C7A314C2BA81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E90604-C413-471F-A5EA-7D4C6D92D467}
+	EndGlobalSection
+EndGlobal
